@@ -83,10 +83,9 @@ These analyses shed light on results into meaningful insights and recommendation
 <br>
 
 ## 📊Visulization
-<img src="ysis/assets/137817362/10cae715-8210-40dd-b9b3-779323dd6801" >
+![Screenshot 2023-10-17 141113](https://github.com/Sanskrutee-Dudhe/Grubhub-analysis/assets/122347459/ac601ac5-30ac-4642-a672-7559e2650862)
 <br><br>
-<img src="nalysis/assets/137817362/608b2493-f2ed-4785-a6be-9eb4ffe33ab7" >
-
+![Screenshot 2023-10-17 141238](https://github.com/Sanskrutee-Dudhe/Grubhub-analysis/assets/122347459/66590d88-5d06-46b8-9c3b-a1669c27454a)
 <br><br>
 
 
