@@ -5,7 +5,7 @@
 ## 👁️Project Overview
 
 
-This project based on New york based food delivery app, which delves into food delivery and restaurant analysis with a focus on Grubhub, a prominent food delivery platform. Our project involved data extraction, comprehensive data analysis, and the creation of an interactive dashboard. The objective was to provide valuable recommendations to a consultancy firm interested in opening a remote kitchen in New York. Let's explore the project's process, analysis, key findings, and recommendations.
+This project based on New york based food delivery app, which delves into food delivery and restaurant analysis with a focus on Grubhub, a prominent food delivery platform in New York. Our project involved data extraction, comprehensive data analysis, and the creation of an interactive dashboard. The objective was to provide valuable recommendations to a consultancy firm interested in opening a remote kitchen in New York. Let's explore the project's process, analysis, key findings, and recommendations.
 
 <br>
 
